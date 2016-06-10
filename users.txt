@@ -1,0 +1,5 @@
+S:Yugi:Moto:kingofgames:atem:Art:Theatre:2.4
+F:John:Vito:juanny:tsunami
+A:Mako:Tsunami:freakyfish:oceanluv
+S:Joey:Wheeler:brooklynboy:blondie:Computer Science::3.0
+S:Link:Galaham:facesofevil:stuff:Culinary Arts:Carrotology:4.0

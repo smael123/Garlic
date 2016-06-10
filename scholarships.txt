@@ -1,0 +1,5 @@
+Delphian Scholarship:3.0:::2000
+Rose Scholarship:3.25:::1500
+Computer Science Scholarship:3.25:Computer Science::2000
+Full Belly Scholarship:2.5:Culinary Arts:Carrotology:1000
+Card Scholarship:2.0:::500 
